@@ -1,0 +1,291 @@
+{
+  "users": [
+    {
+      "id": "usr_victor_demo",
+      "memberId": "MEM-PSN-00458",
+      "fullName": "Victor Adewale",
+      "email": "awoyeleemma1@gmail.com",
+      "phoneNumber": "+234 803 123 4567",
+      "professionalTitle": "Registered Pharmacist (MPSN)",
+      "passwordHash": "$2b$10$4K.O9orFBWErdEOIPdj3putRGn22tKz3plxO38ULNhiHHYnGcqV3q",
+      "role": "MEMBER",
+      "assignedAccount": {
+        "id": 1,
+        "accountNumber": "0001 2345 6789",
+        "rawAccountNumber": "000123456789",
+        "bankName": "First Bank of Nigeria",
+        "accountName": "FSBC Collection Account 01",
+        "accountRef": "FSBC-FBN-01",
+        "ussdCode": "*894*000123456789#"
+      },
+      "savingsBalance": 0,
+      "shareCapital": 0,
+      "shareCount": 0,
+      "activeLoanBalance": 0,
+      "usedGuarantee": 0,
+      "nextRepaymentDate": null,
+      "nextRepaymentAmount": 0,
+      "createdAt": "2026-09-04T04:50:05.000Z",
+      "transactions": [],
+      "notifications": [
+        {
+          "id": "notif_1",
+          "title": "Welcome to FSBC! Your assigned collection account is ready for funding.",
+          "date": "Just now",
+          "read": false
+        }
+      ]
+    },
+    {
+      "id": "usr_1788497405091_576",
+      "memberId": "MEM-PSN-54387",
+      "fullName": "Amaka Obi",
+      "email": "amaka1788497405002@gmail.com",
+      "phoneNumber": "+234 812 345 6789",
+      "professionalTitle": "Hospital Pharmacist",
+      "passwordHash": "$2b$10$1uxjYv5ceqi1inzm8VZwX.RbrJ1v6A/tipnI17HXl86ebqdzu.fAq",
+      "role": "MEMBER",
+      "assignedAccount": {
+        "id": 4,
+        "accountNumber": "0004 5678 9012",
+        "rawAccountNumber": "000456789012",
+        "bankName": "Access Bank",
+        "accountName": "FSBC Collection Account 04",
+        "accountRef": "FSBC-ACC-04",
+        "ussdCode": "*901*000456789012#"
+      },
+      "savingsBalance": 0,
+      "shareCapital": 0,
+      "shareCount": 0,
+      "activeLoanBalance": 0,
+      "usedGuarantee": 0,
+      "nextRepaymentDate": null,
+      "nextRepaymentAmount": 0,
+      "createdAt": "2026-09-04T04:50:05.091Z",
+      "transactions": [
+        {
+          "id": "tx_1788497405091",
+          "type": "Account Opening",
+          "date": "Sep 4, 2026, 04:50 AM",
+          "amount": 0,
+          "isCredit": true,
+          "status": "Successful",
+          "reference": "REG-MEM-PSN-54387",
+          "description": "FSBC Member account activated. Assigned FSBC Collection Account 04 (Access Bank) for deposits."
+        }
+      ],
+      "notifications": [
+        {
+          "id": "notif_1788497405109",
+          "title": "Welcome to FSBC! Your assigned funding account is 0004 5678 9012 (Access Bank).",
+          "date": "Just now",
+          "read": false
+        }
+      ]
+    },
+    {
+      "id": "usr_1788497408255_917",
+      "memberId": "MEM-PSN-22667",
+      "fullName": "Tunde Bakare",
+      "email": "tunde1788497408167@gmail.com",
+      "phoneNumber": "+234 809 111 2233",
+      "professionalTitle": "Community Pharmacist",
+      "passwordHash": "$2b$10$s/sBPbW8ENFGxOH0bdz.cuoLLyughxpfTnbXKg953FFKv6ajg1UBy",
+      "role": "MEMBER",
+      "assignedAccount": {
+        "id": 3,
+        "accountNumber": "0003 4567 8901",
+        "rawAccountNumber": "000345678901",
+        "bankName": "Zenith Bank",
+        "accountName": "FSBC Collection Account 03",
+        "accountRef": "FSBC-ZEN-03",
+        "ussdCode": "*966*000345678901#"
+      },
+      "savingsBalance": 0,
+      "shareCapital": 0,
+      "shareCount": 0,
+      "activeLoanBalance": 0,
+      "usedGuarantee": 0,
+      "nextRepaymentDate": null,
+      "nextRepaymentAmount": 0,
+      "createdAt": "2026-09-04T04:50:08.255Z",
+      "transactions": [
+        {
+          "id": "tx_1788497408255",
+          "type": "Account Opening",
+          "date": "Sep 4, 2026, 04:50 AM",
+          "amount": 0,
+          "isCredit": true,
+          "status": "Successful",
+          "reference": "REG-MEM-PSN-22667",
+          "description": "FSBC Member account activated. Assigned FSBC Collection Account 03 (Zenith Bank) for deposits."
+        }
+      ],
+      "notifications": [
+        {
+          "id": "notif_1788497408270",
+          "title": "Welcome to FSBC! Your assigned funding account is 0003 4567 8901 (Zenith Bank).",
+          "date": "Just now",
+          "read": false
+        }
+      ]
+    },
+    {
+      "id": "usr_1788497548775_444",
+      "memberId": "MEM-PSN-36575",
+      "fullName": "Pharm. Chioma Okeke",
+      "email": "chioma1788497548593@gmail.com",
+      "phoneNumber": "+234 802 999 8877",
+      "professionalTitle": "Hospital Pharmacist (AHAPN)",
+      "passwordHash": "$2b$10$9RMR0JwuPANnFt1eXUyHwOZG4FYxSnQWSSYxkc1FnuEsuw1VeXI3a",
+      "role": "MEMBER",
+      "assignedAccount": {
+        "id": 1,
+        "accountNumber": "0001 2345 6789",
+        "rawAccountNumber": "000123456789",
+        "bankName": "First Bank of Nigeria",
+        "accountName": "FSBC Collection Account 01",
+        "accountRef": "FSBC-FBN-01",
+        "ussdCode": "*894*000123456789#"
+      },
+      "savingsBalance": 50000,
+      "shareCapital": 0,
+      "shareCount": 0,
+      "activeLoanBalance": 0,
+      "usedGuarantee": 0,
+      "nextRepaymentDate": null,
+      "nextRepaymentAmount": 0,
+      "createdAt": "2026-09-04T04:52:28.775Z",
+      "transactions": [
+        {
+          "id": "tx_1788497548807",
+          "type": "Savings Deposit",
+          "date": "Sep 4, 2026, 04:52 AM",
+          "amount": 50000,
+          "isCredit": true,
+          "status": "Successful",
+          "reference": "DEP-430058",
+          "description": "First wallet funding"
+        },
+        {
+          "id": "tx_1788497548775",
+          "type": "Account Opening",
+          "date": "Sep 4, 2026, 04:52 AM",
+          "amount": 0,
+          "isCredit": true,
+          "status": "Successful",
+          "reference": "REG-MEM-PSN-36575",
+          "description": "FSBC Member account activated. Assigned FSBC Collection Account 01 (First Bank of Nigeria) for deposits."
+        }
+      ],
+      "notifications": [
+        {
+          "id": "notif_1788497548807",
+          "title": "Deposit of ₦50,000 into Savings was confirmed successfully.",
+          "date": "Just now",
+          "read": false
+        },
+        {
+          "id": "notif_1788497548789",
+          "title": "Welcome to FSBC! Your assigned funding account is 0001 2345 6789 (First Bank of Nigeria).",
+          "date": "Just now",
+          "read": false
+        }
+      ]
+    },
+    {
+      "id": "usr_1788497948041_907",
+      "memberId": "MEM-PSN-44446",
+      "fullName": "Testing",
+      "email": "test@gmail.com",
+      "phoneNumber": "0801234568",
+      "professionalTitle": "Fellow of the PSN (FPSN)",
+      "passwordHash": "$2b$10$hU8E4Y3fTAw4fuLiQt3d9eyjy8tCOx68aLRJmUDXVY.cXIxvzxKNe",
+      "role": "MEMBER",
+      "assignedAccount": {
+        "id": 4,
+        "accountNumber": "0004 5678 9012",
+        "rawAccountNumber": "000456789012",
+        "bankName": "Access Bank",
+        "accountName": "FSBC Collection Account 04",
+        "accountRef": "FSBC-ACC-04",
+        "ussdCode": "*901*000456789012#"
+      },
+      "savingsBalance": 0,
+      "shareCapital": 0,
+      "shareCount": 0,
+      "activeLoanBalance": 0,
+      "usedGuarantee": 0,
+      "nextRepaymentDate": null,
+      "nextRepaymentAmount": 0,
+      "createdAt": "2026-09-04T04:59:08.041Z",
+      "transactions": [
+        {
+          "id": "tx_1788497948041",
+          "type": "Account Opening",
+          "date": "Sep 4, 2026, 04:59 AM",
+          "amount": 0,
+          "isCredit": true,
+          "status": "Successful",
+          "reference": "REG-MEM-PSN-44446",
+          "description": "FSBC Member account activated. Assigned FSBC Collection Account 04 (Access Bank) for deposits."
+        }
+      ],
+      "notifications": [
+        {
+          "id": "notif_1788497948042",
+          "title": "Welcome to FSBC! Your assigned funding account is 0004 5678 9012 (Access Bank).",
+          "date": "Just now",
+          "read": false
+        }
+      ]
+    },
+    {
+      "id": "usr_1788498147441_728",
+      "memberId": "MEM-PSN-35025",
+      "fullName": "Kemi Adeleke",
+      "email": "test_member_1788498147257@gmail.com",
+      "phoneNumber": "+234 809 111 2233",
+      "professionalTitle": "Community Pharmacist",
+      "passwordHash": "$2b$10$aWiulcR090AiSY2HO9q5O.8T7vB5Hy0Ww9ytyWaPuiIr5MT8tKZNS",
+      "role": "MEMBER",
+      "assignedAccount": {
+        "id": 1,
+        "accountNumber": "0001 2345 6789",
+        "rawAccountNumber": "000123456789",
+        "bankName": "First Bank of Nigeria",
+        "accountName": "FSBC Collection Account 01",
+        "accountRef": "FSBC-FBN-01",
+        "ussdCode": "*894*000123456789#"
+      },
+      "savingsBalance": 0,
+      "shareCapital": 0,
+      "shareCount": 0,
+      "activeLoanBalance": 0,
+      "usedGuarantee": 0,
+      "nextRepaymentDate": null,
+      "nextRepaymentAmount": 0,
+      "createdAt": "2026-09-04T05:02:27.442Z",
+      "transactions": [
+        {
+          "id": "tx_1788498147442",
+          "type": "Account Opening",
+          "date": "Sep 4, 2026, 05:02 AM",
+          "amount": 0,
+          "isCredit": true,
+          "status": "Successful",
+          "reference": "REG-MEM-PSN-35025",
+          "description": "FSBC Member account activated. Assigned FSBC Collection Account 01 (First Bank of Nigeria) for deposits."
+        }
+      ],
+      "notifications": [
+        {
+          "id": "notif_1788498147456",
+          "title": "Welcome to FSBC! Your assigned funding account is 0001 2345 6789 (First Bank of Nigeria).",
+          "date": "Just now",
+          "read": false
+        }
+      ]
+    }
+  ]
+}

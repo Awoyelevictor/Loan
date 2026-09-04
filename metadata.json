@@ -1,0 +1,8 @@
+{
+  "name": "Remix Functional System Basic Cooperative",
+  "description": "FSBC brings savings, share capital, loans, payments, assets and cooperative services together in one secure platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
